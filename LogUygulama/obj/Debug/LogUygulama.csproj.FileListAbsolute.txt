@@ -1,0 +1,11 @@
+C:\Users\uzeyir\Desktop\LogUygulama\LogUygulama\bin\Debug\NLog.config
+C:\Users\uzeyir\Desktop\LogUygulama\LogUygulama\bin\Debug\LogUygulama.exe.config
+C:\Users\uzeyir\Desktop\LogUygulama\LogUygulama\bin\Debug\LogUygulama.exe
+C:\Users\uzeyir\Desktop\LogUygulama\LogUygulama\bin\Debug\LogUygulama.pdb
+C:\Users\uzeyir\Desktop\LogUygulama\LogUygulama\bin\Debug\NLog.dll
+C:\Users\uzeyir\Desktop\LogUygulama\LogUygulama\bin\Debug\NLog.xml
+C:\Users\uzeyir\Desktop\LogUygulama\LogUygulama\obj\Debug\LogUygulama.csproj.AssemblyReference.cache
+C:\Users\uzeyir\Desktop\LogUygulama\LogUygulama\obj\Debug\LogUygulama.csproj.CoreCompileInputs.cache
+C:\Users\uzeyir\Desktop\LogUygulama\LogUygulama\obj\Debug\LogUygulama.csproj.CopyComplete
+C:\Users\uzeyir\Desktop\LogUygulama\LogUygulama\obj\Debug\LogUygulama.exe
+C:\Users\uzeyir\Desktop\LogUygulama\LogUygulama\obj\Debug\LogUygulama.pdb

@@ -1,0 +1,29 @@
+time;message;logger;level
+2022-06-15 12:35:29.9544;Transaction başlatıldı.;LogUygulama.Program+Log;Info
+2022-06-15 12:35:29.9794;servis çalışmıyor;LogUygulama.Program+Log;Fatal
+2022-06-15 12:35:29.9794;db bağlantısı sağlanamadı.;LogUygulama.Program+Log;Error
+2022-06-15 12:35:29.9794;Transaction sonlandı;LogUygulama.Program+Log;Warn
+2022-06-15 12:36:15.3172;Transaction başlatıldı.;LogUygulama.Program+Log;Info
+2022-06-15 12:36:15.3482;servis çalışmıyor;LogUygulama.Program+Log;Fatal
+2022-06-15 12:36:15.3482;db bağlantısı sağlanamadı.;LogUygulama.Program+Log;Error
+2022-06-15 12:36:15.3482;Transaction sonlandı;LogUygulama.Program+Log;Warn
+2022-06-15 12:37:44.2964;Transaction başlatıldı.;LogUygulama.Program+Log;Info
+2022-06-15 12:37:44.3187;servis çalışmıyor;LogUygulama.Program+Log;Fatal
+2022-06-15 12:37:44.3187;db bağlantısı sağlanamadı.;LogUygulama.Program+Log;Error
+2022-06-15 12:37:44.3187;Transaction sonlandı;LogUygulama.Program+Log;Warn
+2022-06-15 12:38:03.1186;Transaction başlatıldı.;LogUygulama.Program+Log;Info
+2022-06-15 12:38:03.1400;servis çalışmıyor;LogUygulama.Program+Log;Fatal
+2022-06-15 12:38:03.1400;db bağlantısı sağlanamadı.;LogUygulama.Program+Log;Error
+2022-06-15 12:38:03.1400;Transaction sonlandı;LogUygulama.Program+Log;Warn
+2022-06-15 14:13:55.6346;Transaction başlatıldı.;LogUygulama.Program+Log;Info
+2022-06-15 14:13:55.6555;servis çalışmıyor;LogUygulama.Program+Log;Fatal
+2022-06-15 14:13:55.6555;db bağlantısı sağlanamadı.;LogUygulama.Program+Log;Error
+2022-06-15 14:13:55.6555;Transaction sonlandı;LogUygulama.Program+Log;Warn
+2022-06-15 14:14:50.3253;Transaction başlatıldı.;LogUygulama.Program+Log;Info
+2022-06-15 14:14:50.3555;servis çalışmıyor;LogUygulama.Program+Log;Fatal
+2022-06-15 14:14:50.3555;db bağlantısı sağlanamadı.;LogUygulama.Program+Log;Error
+2022-06-15 14:14:50.3555;Transaction sonlandı;LogUygulama.Program+Log;Warn
+2022-06-15 14:15:16.3472;Transaction başlatıldı.;LogUygulama.Program+Log;Info
+2022-06-15 14:15:16.3719;servis çalışmıyor;LogUygulama.Program+Log;Fatal
+2022-06-15 14:15:16.3719;db bağlantısı sağlanamadı.;LogUygulama.Program+Log;Error
+2022-06-15 14:15:16.3719;Transaction sonlandı;LogUygulama.Program+Log;Warn
